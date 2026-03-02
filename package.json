@@ -1,6 +1,6 @@
 {
   "name": "@tracekit/vue",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "TraceKit Vue Integration - Error capture and navigation breadcrumbs for Vue 3",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -27,7 +27,7 @@
     "dev": "tsup --watch"
   },
   "peerDependencies": {
-    "@tracekit/browser": "^1.0.0",
+    "@tracekit/browser": "^0.1.1",
     "vue": ">=3.3.0"
   },
   "optionalDependencies": {
